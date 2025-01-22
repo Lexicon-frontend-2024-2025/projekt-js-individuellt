@@ -46,7 +46,7 @@ Om du känner dig klar med grundkraven och vill utmana dig själv, kan du testa 
 - Något eget easter egg!
 
 ## **Inlämning och Presentation**
-- **Deadline**: 31 januari 23:59
+- **Deadline**: 3 februari 23:59
 - **Presentation**: Du kommer att få presentera din applikation för klassen, visa upp din lösning och reflektera över vad som var utmanande och vad du har lärt dig.
 
 ## **Bedömningskriterier**
