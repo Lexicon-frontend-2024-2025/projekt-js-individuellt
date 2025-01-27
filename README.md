@@ -21,7 +21,7 @@ Du får själv välja ett tema för din applikation. Här är några förslag om
 ### **Funktionalitet**
 1. **CRUD-operationer**: Applikationen ska stödja skapande, läsning, uppdatering och borttagning av data och lagra detta i Local Storage.
 2. **API-integration**: Applikationen ska hämta data från ett externt API och visa det för användaren.
-3. **Felhantering**: Du ska implementera grundläggande felhantering, exempelvis genom att visa användarvänliga felmeddelanden vid problem med API-anrop eller datahantering.
+3. **Felhantering**: Du ska implementera grundläggande felhantering, exempelvis genom att visa användarvänliga felmeddelanden vid problem med API-anrop, formulärvalidering eller datahantering.
 
 ### **Design och Användarupplevelse**
 - Skapa en enkel och intuitiv användargränssnitt (UI) där användaren enkelt kan utföra CRUD-operationer.
