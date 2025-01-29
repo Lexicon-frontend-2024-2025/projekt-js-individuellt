@@ -29,7 +29,7 @@ Du får själv välja ett tema för din applikation. Här är några förslag om
 
 ### **Kodkvalitet**
 - Håll din kod välstrukturerad och kommenterad.
-- Använd funktioner och moduler för att dela upp din kod i hanterbara delar.
+- Använd funktioner och eventuellt moduler för att dela upp din kod i hanterbara delar.
 
 ## **Arbetsgång**
 1. **Planering**: Skapa en wireframe och planera funktionaliteten för din applikation.
