@@ -1,5 +1,5 @@
 # Förslag på punkter att ta upp under redovisningen:
-(De 4 fetmarkerade är obligatoriska)
+(De 3 fetmarkerade är obligatoriska)
 
 ### 1. **Introduktion till applikationen**
    - Kort beskrivning av applikationen: Vad är syftet med den?
