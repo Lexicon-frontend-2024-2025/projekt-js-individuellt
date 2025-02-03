@@ -22,7 +22,7 @@
    - Estetik: Vad har du gjort för att göra applikationen visuellt tilltalande? Har du använt några ramverk som Bootstrap eller egna CSS-uppsättningar?
 
 ### 5. **Kodstruktur och kvalitet**
-   - Struktur: Hur är koden uppbyggd? Har de använt funktioner eller moduler för att hålla koden hanterbar?
+   - Struktur: Hur är koden uppbyggd? Har du använt funktioner eller moduler för att hålla koden hanterbar?
    - Kommentarer: Har du kommenterat din kod för att göra den lättare att förstå? 
    - Eventuell användning av avancerade tekniker: Har du använt några extra funktioner som async/await, promisar eller andra avancerade JavaScript-koncept?
 
