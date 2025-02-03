@@ -31,7 +31,7 @@
    - Hur löste du dessa utmaningar? Vilka lösningar fungerade bra, och var det något som var svårare än väntat?
 
 ### 7. **Reflektion och lärdomar**
-   - Vad har du lärt sig under projektets gång? (obligatorisk)
+   - Vad har du lärt sig under projektets gång?
    - Vilka tekniker och verktyg känner du nu dig mer bekväma med?
    - Om du fick göra om projektet, vad skulle du göra annorlunda?
 
