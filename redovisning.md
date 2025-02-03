@@ -3,8 +3,8 @@
 
 ### 1. **Introduktion till applikationen**
    - Kort beskrivning av applikationen: Vad är syftet med den?
-   - **Tema: Vad valde de för tema (t.ex. filmdatabas, receptsamling, to-do-lista)?**
-   - **API-val: Vilket API använde du, och varför valde du just det?**
+   - **Tema: Vad valde de för tema (t.ex. filmdatabas, receptsamling, to-do-lista)?** (obligatorisk)
+   - **API-val: Vilket API använde du, och varför valde du just det?** (obligatorisk)
 
 ### 2. **Översikt av funktionaliteten**
    - CRUD-operationer: Hur fungerar varje operation (Create, Read, Update, Delete)?
@@ -27,11 +27,11 @@
    - Eventuell användning av avancerade tekniker: Har du använt några extra funktioner som async/await, promisar eller andra avancerade JavaScript-koncept?
 
 ### 6. **Utmaningar och lösningar**
-   - **Vad var de största utmaningarna under projektet? (T.ex. API-integrationen, hantering av Local Storage, felhantering, eller designproblem?)**
+   - **Vad var de största utmaningarna under projektet? (T.ex. API-integrationen, hantering av Local Storage, felhantering, eller designproblem?)** (obligatorisk)
    - Hur löste du dessa utmaningar? Vilka lösningar fungerade bra, och var det något som var svårare än väntat?
 
 ### 7. **Reflektion och lärdomar**
-   - **Vad har du lärt sig under projektets gång?** 
+   - **Vad har du lärt sig under projektets gång?** (obligatorisk)
    - Vilka tekniker och verktyg känner du nu dig mer bekväma med?
    - Om du fick göra om projektet, vad skulle du göra annorlunda?
 
